@@ -69,7 +69,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-gray-700 pt-6 text-center text-sm">
-          <p>© 2025 SATTVA. All rights reserved. | Made with ❤️ for a fitter India</p>
+          <p>© 2026 SATTVA. All rights reserved. | Made with ❤️ for a fitter India</p>
         </div>
       </div>
     </footer>
