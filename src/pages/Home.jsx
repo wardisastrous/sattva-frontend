@@ -217,7 +217,7 @@ function UpcomingEventBanner() {
         <h2 className="text-4xl md:text-5xl font-bold mt-4 mb-4 font-heading">
           SATTVA City Marathon
         </h2>
-        <p className="text-xl text-gray-200 mb-2">📅 June 1, 2025 | 📍 Jalandhar, Punjab</p>
+        <p className="text-xl text-gray-200 mb-2">📅 June 1, 2026 | 📍 Jalandhar, Punjab</p>
         <p className="text-gray-300 max-w-xl mx-auto mb-8">
           A city-wide marathon promoting fitness and unity. Open for all age groups. 
           Join hundreds of runners making a difference!

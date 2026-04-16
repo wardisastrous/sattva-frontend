@@ -211,17 +211,17 @@ const sampleEvents = [
   {
     id: '1',
     name: 'SATTVA City Marathon',
-    date: '2025-06-01',
+    date: '2026-06-01',
     location: 'Jalandhar, Punjab',
     description: 'A city-wide marathon promoting fitness and unity. Open for all ages.',
     category: 'Marathon',
-    imageUrl: 'https://images.unsplash.com/photo-1530549387789-4c1017266635?w=600'
+    imageUrl: 'https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600'
   },
   {
     id: '2',
     name: 'Community Workout Session',
-    date: '2025-05-15',
-    location: 'Ludhiana, Punjab',
+    date: '2026-06-15',
+    location: 'Jalandhar, Punjab',
     description: 'A free group workout session in the city park. All fitness levels welcome.',
     category: 'Workout',
     imageUrl: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600'
@@ -229,9 +229,9 @@ const sampleEvents = [
   {
     id: '3',
     name: 'Basketball Championship',
-    date: '2025-07-10',
-    location: 'Amritsar, Punjab',
-    description: 'Annual basketball tournament. Teams from across Punjab compete.',
+    date: '2026-06-20',
+    location: 'Jalandhar, Punjab',
+    description: 'Regular basketball tournament. Teams from across Punjab compete.',
     category: 'Basketball',
     imageUrl: 'https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600'
   }

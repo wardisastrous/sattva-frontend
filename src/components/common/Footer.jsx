@@ -22,7 +22,15 @@ export default function Footer() {
             </p>
             {/* Social Media Icons */}
             <div className="flex gap-4 mt-4">
-              <a href="#" className="hover:text-sattva-gold transition-colors"><FaInstagram size={20} /></a>
+              <a 
+    href="https://www.instagram.com/sattva.foundation.26?igsh=MXg2eWYyaXVrNnIybA==" 
+    target="_blank"          
+    rel="noopener noreferrer"
+    className="hover:text-sattva-gold transition-colors"
+    title="Follow us on Instagram"
+  >
+    <FaInstagram size={20} />
+  </a>
               <a href="#" className="hover:text-sattva-gold transition-colors"><FaFacebook size={20} /></a>
               <a href="#" className="hover:text-sattva-gold transition-colors"><FaTwitter size={20} /></a>
             </div>
